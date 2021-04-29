@@ -1,0 +1,488 @@
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\bin\Debug\SistemaBat.exe.config
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\bin\Debug\SistemaBat.exe
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\bin\Debug\SistemaBat.pdb
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\bin\Debug\MaterialSkin.dll
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Properties.Resources.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.csproj.GenerateResource.cache
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.csproj.CopyComplete
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.exe
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.pdb
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmLogin.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmArchivos.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalInstalar.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcp.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDirectivas.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDns.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGEquipos.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGGrupos.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGIss.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfs.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUnidadesOrganizativas.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUsuarios.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIActiveDirectory.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDhcp.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDns.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIFtp.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIIis.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmINfs.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmISqlServer.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmSeleccion.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPc.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPnetwork.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPpc.resources
+C:\Users\Juan\Source\Repos\SistemaBat\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalGestionar.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\bin\Debug\SistemaBat.exe.config
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\bin\Debug\SistemaBat.exe
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\bin\Debug\SistemaBat.pdb
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPropAdaptador.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmArchivos.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcp.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDirectivas.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDns.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGEquipos.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPc.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGGrupos.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGIss.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPnetwork.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPpc.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIActiveDirectory.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDhcp.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDns.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIFtp.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIIis.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmINfs.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmISqlServer.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmLogin.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfs.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalGestionar.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalInstalar.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUnidadesOrganizativas.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUsuarios.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmSeleccion.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.Properties.Resources.resources
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.exe
+C:\Users\User\Desktop\SistemaBat_v0.1\SistemaBat_v0.1\SistemaBat\obj\Debug\SistemaBat.pdb
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\bin\Debug\SistemaBat.exe.config
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\bin\Debug\SistemaBat.exe
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\bin\Debug\SistemaBat.pdb
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\bin\Debug\MaterialSkin.dll
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.csprojAssemblyReference.cache
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPropAdaptador.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmArchivos.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcp.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDirectivas.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDns.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGEquipos.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPc.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGGrupos.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGIss.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPnetwork.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPpc.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIActiveDirectory.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDhcp.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDns.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIFtp.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIIis.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmINfs.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmISqlServer.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmLogin.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfs.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalGestionar.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalInstalar.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUnidadesOrganizativas.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUsuarios.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmSeleccion.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Properties.Resources.resources
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.csproj.GenerateResource.cache
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.csproj.CoreCompileInputs.cache
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.csproj.CopyComplete
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.exe
+C:\Users\AEPIS01\Desktop\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.pdb
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\bin\Debug\SistemaBat.exe.config
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.exe
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.pdb
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\bin\Debug\SistemaBat.exe
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\bin\Debug\SistemaBat.pdb
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\bin\Debug\MaterialSkin.dll
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.csprojResolveAssemblyReference.cache
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGConfiAdaptador.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPropAdaptador.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmArchivos.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcp.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDirectivas.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDns.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGEquipos.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPc.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGGrupos.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGIss.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPnetwork.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPpc.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIActiveDirectory.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDhcp.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDns.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIFtp.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIIis.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmINfs.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmISqlServer.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmLogin.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfs.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalGestionar.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalInstalar.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUnidadesOrganizativas.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUsuarios.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmSeleccion.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Properties.Resources.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.csproj.GenerateResource.Cache
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGCambiarNombreGrupo.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGCambiarNombreEquipo.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGVerGrupodeTrabajo.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\bin\Debug\SistemaBat.exe.config
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\bin\Debug\SistemaBat.exe
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\bin\Debug\SistemaBat.pdb
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\bin\Debug\MaterialSkin.dll
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.csprojAssemblyReference.cache
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGCambiarNombreGrupo.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGConfiAdaptador.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPropAdaptador.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmArchivos.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcp.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDirectivas.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDns.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGEquipos.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPc.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGGrupos.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGIss.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPnetwork.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPpc.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGCambiarNombreEquipo.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGVerGrupodeTrabajo.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIActiveDirectory.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDhcp.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDns.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIFtp.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIIis.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmINfs.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmISqlServer.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmLogin.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfs.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalGestionar.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalInstalar.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUnidadesOrganizativas.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUsuarios.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmSeleccion.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.Properties.Resources.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.csproj.GenerateResource.cache
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.csproj.CoreCompileInputs.cache
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.csproj.CopyComplete
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.exe
+F:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.2\SistemaBat\obj\Debug\SistemaBat.pdb
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\bin\Debug\SistemaBat.exe.config
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\bin\Debug\SistemaBat.exe
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\bin\Debug\SistemaBat.pdb
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\bin\Debug\MaterialSkin.dll
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGCambiarNombreGrupo.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGConfiAdaptador.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcpServer.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPropAdaptador.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmArchivos.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcp.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDirectivas.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDns.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGEquipos.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPc.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGGrupos.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGIss.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPnetwork.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPpc.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGCambiarNombreEquipo.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGVerGrupodeTrabajo.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIActiveDirectory.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDhcp.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDns.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIFtp.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIIis.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmINfs.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmISqlServer.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmLogin.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfs.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalGestionar.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalInstalar.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUnidadesOrganizativas.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUsuarios.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmSeleccion.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.Properties.Resources.resources
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.csproj.GenerateResource.Cache
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.exe
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.pdb
+G:\2018-II\SISTEMAS OPERATIVOS I\SistemaBat_v0.2\SistemaBat_v0.3\SistemaBat\obj\Debug\SistemaBat.csprojResolveAssemblyReference.cache
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\bin\Debug\SistemaBat.exe.config
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\bin\Debug\SistemaBat.exe
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\bin\Debug\SistemaBat.pdb
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\bin\Debug\MaterialSkin.dll
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGCambiarNombreGrupo.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGConfiAdaptador.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcpServer.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPropAdaptador.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmArchivos.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcp.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDirectivas.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDns.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGEquipos.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPc.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGGrupos.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGIss.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPnetwork.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPpc.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGCambiarNombreEquipo.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGVerGrupodeTrabajo.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIActiveDirectory.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDhcp.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDns.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIFtp.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIIis.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmINfs.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmISqlServer.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmLogin.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfs.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalGestionar.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalInstalar.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUnidadesOrganizativas.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUsuarios.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmSeleccion.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Properties.Resources.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.csproj.GenerateResource.cache
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.csproj.CoreCompileInputs.cache
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.csproj.CopyComplete
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.exe
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.pdb
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FormGDhcpCliente.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfsCliente.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfsServidor.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGIIS.resources
+C:\Users\dstro\Desktop\testb\hernan\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.csprojAssemblyReference.cache
+E:\SistemaBat_v0.5\SistemaBat\bin\Debug\SistemaBat.exe.config
+E:\SistemaBat_v0.5\SistemaBat\bin\Debug\SistemaBat.exe
+E:\SistemaBat_v0.5\SistemaBat\bin\Debug\SistemaBat.pdb
+E:\SistemaBat_v0.5\SistemaBat\bin\Debug\MaterialSkin.dll
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.csprojAssemblyReference.cache
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FormGDhcpCliente.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGCambiarNombreGrupo.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGConfiAdaptador.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcpServer.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGIIS.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfsCliente.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfsServidor.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPropAdaptador.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmArchivos.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcp.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDirectivas.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDns.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGEquipos.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPc.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGGrupos.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGIss.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPnetwork.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPpc.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGCambiarNombreEquipo.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGVerGrupodeTrabajo.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIActiveDirectory.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDhcp.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDns.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIFtp.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIIis.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmINfs.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmISqlServer.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmLogin.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfs.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalGestionar.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalInstalar.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUnidadesOrganizativas.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUsuarios.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmSeleccion.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Properties.Resources.resources
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.csproj.GenerateResource.cache
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.csproj.CoreCompileInputs.cache
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.csproj.CopyComplete
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.exe
+E:\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.pdb
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\bin\Debug\SistemaBat.exe.config
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\bin\Debug\SistemaBat.exe
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\bin\Debug\SistemaBat.pdb
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\bin\Debug\MaterialSkin.dll
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.csprojAssemblyReference.cache
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FormGDhcpCliente.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGCambiarNombreGrupo.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGConfiAdaptador.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcpServer.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGIIS.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfsCliente.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfsServidor.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPropAdaptador.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmArchivos.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcp.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDirectivas.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDns.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGEquipos.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPc.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGGrupos.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGIss.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPnetwork.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPpc.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGCambiarNombreEquipo.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGVerGrupodeTrabajo.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIActiveDirectory.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDhcp.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDns.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIFtp.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIIis.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmINfs.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmISqlServer.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmLogin.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfs.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalGestionar.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalInstalar.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUnidadesOrganizativas.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUsuarios.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmSeleccion.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Properties.Resources.resources
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.csproj.GenerateResource.cache
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.csproj.CoreCompileInputs.cache
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.csproj.CopyComplete
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.exe
+F:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.pdb
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\bin\Debug\SistemaBat.exe.config
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\bin\Debug\SistemaBat.exe
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\bin\Debug\SistemaBat.pdb
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\bin\Debug\MaterialSkin.dll
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.csprojAssemblyReference.cache
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FormGDhcpCliente.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGCambiarNombreGrupo.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGConfiAdaptador.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcpServer.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGIIS.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfsCliente.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfsServidor.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPropAdaptador.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmArchivos.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcp.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDirectivas.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDns.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGEquipos.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPc.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGGrupos.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGIss.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPnetwork.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPpc.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGCambiarNombreEquipo.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGVerGrupodeTrabajo.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIActiveDirectory.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDhcp.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDns.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIFtp.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIIis.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmINfs.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmISqlServer.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmLogin.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfs.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalGestionar.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalInstalar.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUnidadesOrganizativas.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUsuarios.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmSeleccion.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.Properties.Resources.resources
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.csproj.GenerateResource.cache
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.csproj.CoreCompileInputs.cache
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.csproj.CopyComplete
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.exe
+H:\2018-II\SISTEMAS OPERATIVOS I\EXPO\Presentacion_Proyecto_SO1\aplicativo\SistemaBat_v0.5\SistemaBat\obj\Debug\SistemaBat.pdb
+G:\Sistema BAT Final Martes\SistemaBat\bin\Debug\SistemaBat.exe.config
+G:\Sistema BAT Final Martes\SistemaBat\bin\Debug\SistemaBat.exe
+G:\Sistema BAT Final Martes\SistemaBat\bin\Debug\SistemaBat.pdb
+G:\Sistema BAT Final Martes\SistemaBat\bin\Debug\MaterialSkin.dll
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FormGDhcpCliente.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGCambiarNombreGrupo.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGConfiAdaptador.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcpServer.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGIIS.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfsCliente.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfsServidor.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPropAdaptador.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmArchivos.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcp.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDirectivas.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDns.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGEquipos.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPc.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGGrupos.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGIss.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPnetwork.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPpc.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGCambiarNombreEquipo.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGVerGrupodeTrabajo.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIActiveDirectory.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDhcp.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDns.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIFtp.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIIis.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmINfs.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmISqlServer.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmLogin.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfs.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalGestionar.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalInstalar.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUnidadesOrganizativas.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUsuarios.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmSeleccion.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Properties.Resources.resources
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.csproj.GenerateResource.Cache
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.exe
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.pdb
+G:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.csprojResolveAssemblyReference.cache
+H:\Sistema BAT Final Martes\SistemaBat\bin\Debug\SistemaBat.exe.config
+H:\Sistema BAT Final Martes\SistemaBat\bin\Debug\SistemaBat.exe
+H:\Sistema BAT Final Martes\SistemaBat\bin\Debug\SistemaBat.pdb
+H:\Sistema BAT Final Martes\SistemaBat\bin\Debug\MaterialSkin.dll
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.csprojAssemblyReference.cache
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FormGDhcpCliente.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGCambiarNombreGrupo.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGConfiAdaptador.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcpServer.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGIIS.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfsCliente.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfsServidor.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPropAdaptador.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmArchivos.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDhcp.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDirectivas.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGDns.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGEquipos.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPc.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGGrupos.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGIss.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPnetwork.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGPpc.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGCambiarNombreEquipo.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGVerGrupodeTrabajo.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIActiveDirectory.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDhcp.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIDns.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIFtp.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmIIis.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmINfs.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmISqlServer.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmLogin.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGNfs.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalGestionar.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmPrincipalInstalar.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUnidadesOrganizativas.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmGUsuarios.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Presentacion.FrmSeleccion.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.Properties.Resources.resources
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.csproj.GenerateResource.cache
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.csproj.CoreCompileInputs.cache
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.csproj.CopyComplete
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.exe
+H:\Sistema BAT Final Martes\SistemaBat\obj\Debug\SistemaBat.pdb

@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5C0D2B25-4D85-43E4-8388-F3AD6BB8DED0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SistemaBat</RootNamespace>
+    <AssemblyName>SistemaBat</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Presentacion\FormGDhcpCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FormGDhcpCliente.Designer.cs">
+      <DependentUpon>FormGDhcpCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGCambiarNombreGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGCambiarNombreGrupo.Designer.cs">
+      <DependentUpon>FrmGCambiarNombreGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGConfiAdaptador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGConfiAdaptador.Designer.cs">
+      <DependentUpon>FrmGConfiAdaptador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGDhcpServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGDhcpServer.Designer.cs">
+      <DependentUpon>FrmGDhcpServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGIIS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGIIS.Designer.cs">
+      <DependentUpon>FrmGIIS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGNfsCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGNfsCliente.Designer.cs">
+      <DependentUpon>FrmGNfsCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGNfsServidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGNfsServidor.Designer.cs">
+      <DependentUpon>FrmGNfsServidor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGPropAdaptador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGPropAdaptador.Designer.cs">
+      <DependentUpon>FrmGPropAdaptador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGArchivos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGArchivos.Designer.cs">
+      <DependentUpon>FrmGArchivos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGDhcp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGDhcp.Designer.cs">
+      <DependentUpon>FrmGDhcp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGDirectivas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGDirectivas.Designer.cs">
+      <DependentUpon>FrmGDirectivas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGDns.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGDns.Designer.cs">
+      <DependentUpon>FrmGDns.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGEquipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGEquipos.Designer.cs">
+      <DependentUpon>FrmGEquipos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGPc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGPc.Designer.cs">
+      <DependentUpon>FrmGPc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGGrupos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGGrupos.Designer.cs">
+      <DependentUpon>FrmGGrupos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGPnetwork.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGPnetwork.Designer.cs">
+      <DependentUpon>FrmGPnetwork.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGPpc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGPpc.Designer.cs">
+      <DependentUpon>FrmGPpc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGCambiarNombreEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGCambiarNombreEquipo.Designer.cs">
+      <DependentUpon>FrmGCambiarNombreEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGVerGrupodeTrabajo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGVerGrupodeTrabajo.Designer.cs">
+      <DependentUpon>FrmGVerGrupodeTrabajo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmIActiveDirectory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmIActiveDirectory.Designer.cs">
+      <DependentUpon>FrmIActiveDirectory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGIss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGIss.Designer.cs">
+      <DependentUpon>FrmGIss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmIDhcp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmIDhcp.Designer.cs">
+      <DependentUpon>FrmIDhcp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmIDns.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmIDns.Designer.cs">
+      <DependentUpon>FrmIDns.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmIFtp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmIFtp.Designer.cs">
+      <DependentUpon>FrmIFtp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmIIis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmIIis.Designer.cs">
+      <DependentUpon>FrmIIis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmINfs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmINfs.Designer.cs">
+      <DependentUpon>FrmINfs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmISqlServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmISqlServer.Designer.cs">
+      <DependentUpon>FrmISqlServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGNfs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGNfs.Designer.cs">
+      <DependentUpon>FrmGNfs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmPrincipalGestionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmPrincipalGestionar.Designer.cs">
+      <DependentUpon>FrmPrincipalGestionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmPrincipalInstalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmPrincipalInstalar.Designer.cs">
+      <DependentUpon>FrmPrincipalInstalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGUnidadesOrganizativas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGUnidadesOrganizativas.Designer.cs">
+      <DependentUpon>FrmGUnidadesOrganizativas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmGUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmGUsuarios.Designer.cs">
+      <DependentUpon>FrmGUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmSeleccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmSeleccion.Designer.cs">
+      <DependentUpon>FrmSeleccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Presentacion\FormGDhcpCliente.resx">
+      <DependentUpon>FormGDhcpCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGCambiarNombreGrupo.resx">
+      <DependentUpon>FrmGCambiarNombreGrupo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGConfiAdaptador.resx">
+      <DependentUpon>FrmGConfiAdaptador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGDhcpServer.resx">
+      <DependentUpon>FrmGDhcpServer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGIIS.resx">
+      <DependentUpon>FrmGIIS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGNfsCliente.resx">
+      <DependentUpon>FrmGNfsCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGNfsServidor.resx">
+      <DependentUpon>FrmGNfsServidor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGPropAdaptador.resx">
+      <DependentUpon>FrmGPropAdaptador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGArchivos.resx">
+      <DependentUpon>FrmGArchivos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGDhcp.resx">
+      <DependentUpon>FrmGDhcp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGDirectivas.resx">
+      <DependentUpon>FrmGDirectivas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGDns.resx">
+      <DependentUpon>FrmGDns.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGEquipos.resx">
+      <DependentUpon>FrmGEquipos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGPc.resx">
+      <DependentUpon>FrmGPc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGGrupos.resx">
+      <DependentUpon>FrmGGrupos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGIss.resx">
+      <DependentUpon>FrmGIss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGPnetwork.resx">
+      <DependentUpon>FrmGPnetwork.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGPpc.resx">
+      <DependentUpon>FrmGPpc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGCambiarNombreEquipo.resx">
+      <DependentUpon>FrmGCambiarNombreEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGVerGrupodeTrabajo.resx">
+      <DependentUpon>FrmGVerGrupodeTrabajo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmIActiveDirectory.resx">
+      <DependentUpon>FrmIActiveDirectory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmIDhcp.resx">
+      <DependentUpon>FrmIDhcp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmIDns.resx">
+      <DependentUpon>FrmIDns.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmIFtp.resx">
+      <DependentUpon>FrmIFtp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmIIis.resx">
+      <DependentUpon>FrmIIis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmINfs.resx">
+      <DependentUpon>FrmINfs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmISqlServer.resx">
+      <DependentUpon>FrmISqlServer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGNfs.resx">
+      <DependentUpon>FrmGNfs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmPrincipalGestionar.resx">
+      <DependentUpon>FrmPrincipalGestionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmPrincipalInstalar.resx">
+      <DependentUpon>FrmPrincipalInstalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGUnidadesOrganizativas.resx">
+      <DependentUpon>FrmGUnidadesOrganizativas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmGUsuarios.resx">
+      <DependentUpon>FrmGUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmSeleccion.resx">
+      <DependentUpon>FrmSeleccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="app.manifest" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entidades\" />
+    <Folder Include="Negocios\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
